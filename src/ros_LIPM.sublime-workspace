@@ -1,0 +1,1329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Foot_xyzCal_",
+				"Foot_xyzCal_slope"
+			],
+			[
+				"Step_forward_",
+				"Step_forward_slope"
+			],
+			[
+				"stanc",
+				"stance_P"
+			],
+			[
+				"s",
+				"swing_P"
+			],
+			[
+				"Tor",
+				"Torso_z"
+			],
+			[
+				"upd",
+				"UpDownCount"
+			],
+			[
+				"Actio",
+				"Action_UpDown"
+			],
+			[
+				"Step",
+				"StepPaused"
+			],
+			[
+				"Wa",
+				"Walk_forward"
+			],
+			[
+				"ro",
+				"RobotState"
+			],
+			[
+				"To",
+				"TorsoHight"
+			],
+			[
+				"T",
+				"Torso_z"
+			],
+			[
+				"Robot",
+				"RobotState"
+			],
+			[
+				"x",
+				"x_begin"
+			],
+			[
+				"y",
+				"y_begin"
+			],
+			[
+				"DS",
+				"DScount2"
+			],
+			[
+				"Ds",
+				"DSrhythm"
+			],
+			[
+				"Rf",
+				"Rfoot_z"
+			],
+			[
+				"Lfoo",
+				"Lfoot_z"
+			],
+			[
+				"W",
+				"Walk_forward"
+			],
+			[
+				"swing_",
+				"Swing_H"
+			],
+			[
+				"swing_z",
+				"swing_z_old"
+			],
+			[
+				"sw",
+				"swing_x_old"
+			],
+			[
+				"swing",
+				"swing_z"
+			],
+			[
+				"deta",
+				"detaH"
+			],
+			[
+				"step",
+				"StepRhythm"
+			],
+			[
+				"F",
+				"F_cal"
+			],
+			[
+				"Lf",
+				"Lfoot_z"
+			],
+			[
+				"stp",
+				"StepRhythm"
+			],
+			[
+				"Ste",
+				"StepCount"
+			],
+			[
+				"Ro",
+				"RobotState"
+			],
+			[
+				"St",
+				"StepRhythm"
+			],
+			[
+				"Rfoot",
+				"Rfoot_stance"
+			],
+			[
+				"Rob",
+				"RobotState"
+			],
+			[
+				"Vx_",
+				"Vx_old"
+			],
+			[
+				"Vy_",
+				"Vy_old"
+			],
+			[
+				"D",
+				"D_cal"
+			],
+			[
+				"F_",
+				"F_cal_old"
+			],
+			[
+				"stance",
+				"stance_x"
+			],
+			[
+				"vx",
+				"Vx"
+			],
+			[
+				"Walk",
+				"Walk_forward"
+			],
+			[
+				"I",
+				"InverseKinematics"
+			],
+			[
+				"RA",
+				"RArm_R"
+			],
+			[
+				"RArm_elb",
+				"RArm_elbowdf"
+			],
+			[
+				"F_cal_",
+				"F_cal_New"
+			],
+			[
+				"D_cal_",
+				"D_cal_New"
+			],
+			[
+				"R",
+				"R_z"
+			],
+			[
+				"L",
+				"L_z"
+			],
+			[
+				"Rfoo",
+				"Rfoot_z"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"si",
+				"sita"
+			],
+			[
+				"T_",
+				"t_V"
+			],
+			[
+				"D_",
+				"D_cal_end"
+			],
+			[
+				"m",
+				"mRhythm"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"torsop",
+				"torsopitch"
+			],
+			[
+				"S",
+				"StepRhythm"
+			],
+			[
+				"JY",
+				"JY901"
+			],
+			[
+				"CoM_x_",
+				"CoM_x_RelativeToRobot"
+			],
+			[
+				"err",
+				"error_com_x"
+			],
+			[
+				"error",
+				"error_x"
+			],
+			[
+				"kal",
+				"kalAngleX"
+			],
+			[
+				"get",
+				"getchar"
+			],
+			[
+				"Wal",
+				"Walk_stop"
+			],
+			[
+				"Measure",
+				"measuredvalue"
+			],
+			[
+				"P",
+				"P_y"
+			],
+			[
+				"link",
+				"link_P"
+			],
+			[
+				"C",
+				"CoM_H"
+			],
+			[
+				"CoM",
+				"CoM_x_measured"
+			],
+			[
+				"Lfoot",
+				"Lfoot_y"
+			],
+			[
+				"tur",
+				"true"
+			],
+			[
+				"V",
+				"V0_y"
+			],
+			[
+				"V0",
+				"V0_x"
+			],
+			[
+				"mS",
+				"mTimeStep"
+			],
+			[
+				"bu",
+				"buffGlobal"
+			],
+			[
+				"t_D",
+				"t_d"
+			],
+			[
+				"read",
+				"ready_1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 18423,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "LIPMWalk.cpp",
+			"settings":
+			{
+				"buffer_size": 25882,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LIPMWalk.h",
+			"settings":
+			{
+				"buffer_size": 5309,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.h",
+			"settings":
+			{
+				"buffer_size": 3491,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"install package",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/zisang/文档/gitlab/BipedGait/src/robot/src"
+	],
+	"file_history":
+	[
+		"/home/zisang/文档/gitlab/ros_copy/robotNG_control_ROS_PID_Online/src/robot/src/LIPMWalk.cpp",
+		"/home/zisang/文档/gitlab/BipedGait/src/robot/src/LIPMWalk.cpp",
+		"/home/zisang/文档/gitlab/BipedGait/src/robot/src/SimpleSerial.h",
+		"/home/zisang/.config/sublime-text-3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/SimpleSerial.h",
+		"/home/zisang/桌面/src/LIPMWalk.cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/LIPMWalk.cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/bl_line.cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS_12.8 _PID_Online_IK/src/robot/src/LIPMWalk.h",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS_12.8 _PID_Online_IK/src/robot/src/LIPMWalk.cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/bl_line.h",
+		"/home/zisang/桌面/BezierLine-master/bline/bl_main.cpp",
+		"/home/zisang/桌面/BezierLine-master/bline/bl_line.h",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/main.h",
+		"/home/zisang/桌面/BezierLine-master/bline/bl_line.cpp",
+		"/home/zisang/桌面/Spline3D-master/src/pkg3dspline/MainPanel.java",
+		"/home/zisang/桌面/贝塞尔/Bezier-master/README.md",
+		"/home/zisang/桌面/贝塞尔/BezierLine-master/README.md",
+		"/home/zisang/桌面/Bezier-master/main.cpp",
+		"/home/zisang/桌面/Bezier-master/README.md",
+		"/home/zisang/桌面/Spline3D-master/src/pkg3dspline/MainFrame.java",
+		"/home/zisang/桌面/Spline3D-master/src/pkg3dspline/Matrix.java",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/Matrix3x3.h",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS (复件)/src/robot/src/LIPMWalk.cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS -frontal plane/src/robot/src/LIPMWalk.cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/main.cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/cmd_process.cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/JY901.h",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/JY901.cpp",
+		"/home/zisang/桌面/MotorTest/MotorTest.ino",
+		"/home/zisang/桌面/JY901SerialTest/JY901/JY901.cpp",
+		"/home/zisang/桌面/JY901SerialTest/SimpleSerial.h",
+		"/home/zisang/桌面/JY901SerialTest/main.cpp",
+		"/home/zisang/桌面/JY901SerialTest/JY901/JY901.h",
+		"/home/zisang/桌面/JY901SerialTest/JY901SerialTest.ino",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/LIPMWalk.h",
+		"/home/zisang/文档/gitlab/darwinop2sourcecode/Linux/project/tutorial/kalman/main.cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/cmd_process.h",
+		"/home/zisang/桌面/kalman/Kalman.h",
+		"/home/zisang/桌面/kalman/main.cpp",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/CoMmeasure/LIPMWalk.cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/main (复件).cpp",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot/src/main.cpp~",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/CoMmeasure/main.cpp",
+		"/home/zisang/文档/gitlab/darwin-op-onWebots/controllers/walk/Walk.cpp",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/LIPMgait/LIPMWalk.h",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Framework/src/motion/modules/Walking.cpp",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/LIPMgait/LIPMWalk.cpp",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/LIPMgait/main.cpp",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/LIPMgait/cmd_process.h",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/LIPMgait/cmd_process.cpp",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/LIPMgait/Makefile",
+		"/home/zisang/桌面/darwin_GAIT-master-362b1b6a53bd244a055a7f1dc16a9164ef07ae72/Linux/project/LIPMgait/LIPMWalk.cpp",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/CoMmeasure/LIPMWalk.h",
+		"/home/zisang/文档/gitlab/darwin-op-onWebots/controllers/walk/Walk.hpp",
+		"/home/zisang/文档/gitlab/darwin-op-onWebots/controllers/walk/main.cpp",
+		"/home/zisang/文档/gitlab/darwin-op-onWebots/libraries/darwin/darwin/Framework/src/motion/modules/Walking.cpp",
+		"/home/zisang/文档/gitlab/darwin-op-onWebots/dar-sub.sublime-project",
+		"/home/zisang/文档/gitlab/robotNG_control_ROS/src/robot_online/src/PagePlayNode.cpp",
+		"/home/zisang/文档/darwin-op-onWebots/libraries/darwin/darwin/Framework/include/Walking.h",
+		"/home/zisang/文档/webots/projects/robots/darwin-op/libraries/darwin/darwin/Framework/include/Walking.h",
+		"/home/zisang/文档/darwin-op-onWebots/libraries/darwin/darwin/Framework/include/MotionModule.h",
+		"/home/zisang/文档/darwin-op-onWebots/libraries/darwin/darwin/Framework/src/motion/modules/Walking-darwin.cpp",
+		"/home/zisang/文档/darwin-op-onWebots/controllers/walk/Walk.hpp",
+		"/home/zisang/文档/darwin-op-onWebots/libraries/darwin/darwin/Framework/include/JointData.h",
+		"/home/zisang/文档/webots/projects/robots/darwin-op/libraries/darwin/darwin/Framework/src/motion/modules/Walking.cpp",
+		"/home/zisang/文档/webots/projects/robots/darwin-op/libraries/darwin/darwin/Framework/src/motion/modules/Action.cpp",
+		"/home/zisang/文档/darwin-op-onWebots/libraries/darwin/darwin/Framework/src/motion/modules/Walking.cpp",
+		"/home/zisang/文档/darwin-op-onWebots/controllers/walk/Walk.cpp~",
+		"/home/zisang/文档/darwin-op-onWebots/controllers/walk/Walk.cpp",
+		"/home/zisang/文档/darwin-op-onWebots/controllers/walk/main.cpp",
+		"/home/zisang/文档/darwin-op-onWebots/controllers/walk/LIPMWalk.h",
+		"/home/zisang/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/LIPMgait/Walk.cpp",
+		"/home/zisang/文档/gitlab/darwin_GAIT/Linux/project/LIPMgait/Walk.h",
+		"/home/zisang/文档/darwin-op-onWebots/libraries/managers/src/DARwInOPGaitManager.cpp",
+		"/home/zisang/文档/gait/pattern.c",
+		"/home/zisang/文档/darwin-op-onWebots/libraries/darwin/darwin/Framework/src/motion/Kinematics.cpp",
+		"/home/zisang/文档/darwin-op-onWebots/libraries/darwin/darwin/Framework/src/math/Matrix.cpp",
+		"/home/zisang/文档/gait/gait.c",
+		"/home/zisang/文档/darwin-op/protos/Darwin-op.proto",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/src/motion/modules/Walking.cpp",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/include/Walking.h",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/src/motion/modules/Walking-darwin.cpp",
+		"/home/zisang/文档/darwin-op/libraries/managers/include/DARwInOPGaitManager.hpp",
+		"/home/zisang/文档/darwin-op/libraries/managers/src/DARwInOPGaitManager.cpp",
+		"/home/zisang/文档/darwin-op/controllers/walk/Pattern.cpp",
+		"/home/zisang/文档/gait/pattern.h",
+		"/home/zisang/文档/gait/gait.h",
+		"/home/zisang/文档/darwin-op/controllers/walk/Pattern.hpp",
+		"/home/zisang/文档/darwin-op/controllers/walk/pattern.cpp",
+		"/home/zisang/文档/darwin-op/controllers/walk/pattern.hpp",
+		"/home/zisang/文档/darwin-op/controllers/walk/已注释.cpp",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/src/motion/JointData.cpp",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/include/MotionStatus.h",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/include/MX28.h",
+		"/home/zisang/文档/gait/JLinkSettings.ini",
+		"/media/zisang/C23888B23888A74F/Users/Administrator/Desktop/人形步态/gait/USER/gait.h",
+		"/media/zisang/C23888B23888A74F/Users/Administrator/Desktop/人形步态/gait/USER/gait.c",
+		"/media/zisang/C23888B23888A74F/Users/Administrator/Desktop/人形步态/gait/USER/pattern.c",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/src/motion/modules/gait.c",
+		"/home/zisang/文档/webots/projects/robots/darwin-op/libraries/managers/include/DARwInOPGaitManager.hpp",
+		"/home/zisang/文档/darwin-op/transfer/src/Motor.cpp",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/src/motion/modules/KHR/gait.h",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/src/motion/modules/KHR/gait.c",
+		"/home/zisang/文档/darwin-op/libraries/managers/src/DARwInOPMotionManager.cpp",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/include/MotionModule.h",
+		"/home/zisang/文档/darwin-op/controllers/walk/Walk.hpp",
+		"/home/zisang/文档/darwin-op/controllers/walk/main.cpp",
+		"/home/zisang/文档/darwin-op/controllers/walk/main.hpp",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/src/minIni/minIni.h",
+		"/media/zisang/U/Makefile.mak",
+		"/home/zisang/文档/darwin-op/transfer/include/webots/Motor.hpp",
+		"/home/zisang/文档/darwin-op/transfer/include/webots/Robot.hpp",
+		"/home/zisang/文档/darwin-op/transfer/src/Robot.cpp",
+		"/home/zisang/文档/darwin-op/transfer/include/webots/Device.hpp",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/src/motion/modules/IK.cpp",
+		"/home/zisang/文档/darwin-op/plugins/remote_controls/darwin-op_tcpip/Wrapper.cpp",
+		"/home/zisang/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/zisang/文档/darwin-op/libraries/darwin/darwin/Framework/src/motion/modules/pattern.c",
+		"/home/zisang/文档/darwin-op/controllers/walk/config.ini",
+		"/home/zisang/文档/webots/projects/robots/darwin-op/libraries/managers/src/DARwInOPGaitManager.cpp",
+		"/home/zisang/文档/webots/projects/robots/darwin-op/controllers/walk/Walk.cpp",
+		"/home/zisang/文档/darwin-op/libraries/managers/src/DARwInOPDirectoryManager.cpp",
+		"/home/zisang/文档/webots/resources/Makefile.include",
+		"/home/zisang/文档/darwin-op/controllers/Makefile.darwin-op",
+		"/home/zisang/文档/darwin-op/controllers/walk/walk",
+		"/home/zisang/文档/webots/include/controller/cpp/webots/Robot.hpp"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/home/zisang/文档/darwin-op",
+			"/home/zisang/文档/webots/include/controller/cpp/webots",
+			"/home/zisang/文档/darwin-op,/home/zisang/文档/webots/include/controller/cpp/webots",
+			"/home/zisang/文档/darwin-op",
+			"/home/zisang/文档/darwin-op/libraries,/home/zisang/文档/darwin-op",
+			"/home/zisang/文档/darwin-op/libraries"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TorsoCal",
+			"slope",
+			"StepPaused",
+			"serial",
+			"DSPRatio",
+			"SetRx",
+			"stand",
+			"IKoffset_R_H",
+			"BALANCE_KNEE_GAIN",
+			"printf",
+			"pr",
+			"stop()",
+			"start_right(",
+			"start_ri",
+			"start_",
+			"Foot_xyzCal",
+			"Rfoot_stance_Cal(",
+			"RelativeToWorld",
+			"TimeStep",
+			"stand",
+			"bez",
+			"stop",
+			"end",
+			"Angle_VxVy_temp",
+			"RobotYaw",
+			"L_y",
+			"Lfoot_Y",
+			"L_y",
+			"init",
+			"CoMCal",
+			"online",
+			"Torso_z",
+			"Rfoot_z",
+			"Lfoot_z",
+			"Lfoot_y",
+			"Rfoot_y",
+			"Rfoot_x",
+			"Lfoot_x",
+			"waitcount",
+			"Rfoot_x",
+			"pri",
+			"point ",
+			"point",
+			"percentAddup",
+			"nullptr",
+			"size_t",
+			"jump",
+			"init",
+			"Rfoot_x_RelaToP",
+			"IsAdjusted",
+			"D_cal_end",
+			"StepRhythm",
+			"RelativeToRobot",
+			"D_cal_Old",
+			"Foot_RLDistance",
+			"RelativeToPendulum",
+			"CoM_x_RelativeToPendulum",
+			"torsoRoll",
+			"torsoPitch",
+			"CoM_x_measured",
+			"bool",
+			"\t\telse\n\t\t\tprintf(\"id  =  %d    read motor failed!!!!!!!!!     measured failed !!!!!!!!!!!!\\n\", id);\n",
+			"V0_x",
+			"X0",
+			"JointOffset",
+			"cout",
+			"JY901",
+			"CJY901",
+			"JY901",
+			"void mySerialEvent",
+			"end",
+			"set_option",
+			"for",
+			"readl",
+			"read",
+			"comp_AngleX",
+			"\t\n",
+			"\tif((StepRhythm>0.2*RhythmCount)&&(StepRhythm<0.8*RhythmCount))\n\t\tCoM_x_RelativeToRobot=CoM_x_ideal[0] + PID_x;\n\telse\n\t\tCoM_x_RelativeToRobot=CoM_x_ideal[0];\t\n",
+			"stop",
+			"in r",
+			"in",
+			"measured",
+			"CoM_x_measured",
+			"CoM_y_measured",
+			"erro",
+			"error",
+			"prin",
+			"cout",
+			"first",
+			"ideal",
+			"timeval_subtract",
+			"Timer",
+			"gyroYangle",
+			"compAngleX",
+			"kalAngleX",
+			"\\n",
+			"Timer",
+			"timeval_subtract",
+			"Angle0",
+			"Step_TC",
+			"read",
+			"Step_TC",
+			"调试",
+			"init",
+			"jump",
+			"speed",
+			"StepRhythm =",
+			"stand",
+			"init",
+			"upda",
+			"int i",
+			"i",
+			"t_H",
+			"init",
+			"L_HIP_PITCH_c",
+			"SetValue",
+			"stand",
+			"Rj",
+			"stand",
+			"IdealToControl",
+			"RealRobot",
+			"Start",
+			"Stop",
+			"Start",
+			"PID",
+			"start",
+			"Step_T",
+			"CoM_m"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"stair",
+			"RelaToW",
+			"R_z",
+			"L_z",
+			"L_y",
+			"R_y",
+			"R_x",
+			"L_x",
+			"WaitCount",
+			"NULL",
+			"unsigned int",
+			"RelaToR",
+			"RelaToP",
+			"CoM_x_RelaToP",
+			"m",
+			"Step_TC_x",
+			"stop",
+			"(int mRhythm)",
+			"mRhythm",
+			"LIPMWalk::",
+			"LIPMWalk",
+			"Walk",
+			"LIPMWalk",
+			"Walk::"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1286,
+								1286
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1698,
+										1699
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1146,
+										1147
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "415ca0b4",
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "LIPMWalk.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18945,
+								18945
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										20201,
+										20202
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										18766,
+										18767
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "af4a064a",
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5895.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "LIPMWalk.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2527,
+								2527
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2677,
+										2678
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2376,
+										2377
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "be0cf6fe",
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2478.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2524,
+								2524
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2525,
+										2526
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2524,
+										2525
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "43fc218e",
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1914.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "ros_LIPM.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 584.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/文档/gitlab/darwin-op-onWebots/dar_Webots.sublime-project"
+			]
+		],
+		"width": 616.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
